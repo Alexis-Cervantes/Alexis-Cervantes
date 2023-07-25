@@ -1,4 +1,4 @@
-### Alexis Cervantes 👋 
+### Hi I'm Alexis Cervantes 👋 
 
 - 🔭 I'm currently learning the python language and the C# language
 - 👯 I want to grow in data science
